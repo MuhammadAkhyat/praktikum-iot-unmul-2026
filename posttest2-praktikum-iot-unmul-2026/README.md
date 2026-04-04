@@ -85,6 +85,7 @@ Fungsi Blynk pada sistem ini adalah:
 ---
 
 ## Board Schematic
+<img width="398" height="430" alt="image" src="https://github.com/user-attachments/assets/7baeb91a-811b-4c12-95a8-19a267d4b7f7" />
 
 ### Konfigurasi Pin
 Berikut adalah konfigurasi pin yang digunakan:
