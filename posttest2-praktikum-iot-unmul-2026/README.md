@@ -128,6 +128,7 @@ Dashboard ini digunakan untuk:
 - memonitor nilai gas,
 - melihat status sistem,
 - dan mengontrol LED secara manual saat gas tidak terdeteksi.
+<img width="1656" height="859" alt="image" src="https://github.com/user-attachments/assets/eabd0ee8-66fa-4290-8970-5b9ec4c66383" />
 
 ---
 
