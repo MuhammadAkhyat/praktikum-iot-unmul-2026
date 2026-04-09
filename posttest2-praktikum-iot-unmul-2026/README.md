@@ -1,4 +1,4 @@
-# POSTTEST 2 PRAKTIKUM IOT UNMUL 2026
+# POSTTEST 1 PRAKTIKUM IOT UNMUL 2026
 
 ## Monitoring Gas Level dan Kontrol LED Berbasis IoT Menggunakan ESP32, Sensor MQ-2, dan Blynk
 
