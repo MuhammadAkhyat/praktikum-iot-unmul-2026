@@ -32,7 +32,6 @@ Project ini dikerjakan secara individu oleh:
 - DHT11
 - MQ-2
 - Breadboard / Wokwi
-- Kabel jumper
 - WiFi
 - Telegram Bot
 
